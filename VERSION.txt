@@ -1,0 +1,7 @@
+Bio-shop Bot v33.3-buildfix
+
+ตรวจสอบหลัง Deploy:
+1. Build log ต้องขึ้นขั้นตอน Dockerfile
+2. Runtime log ต้องมี BUILD=v33.3-buildfix
+3. ส่ง /version ต้องตอบ Bio-shop Bot v33.3-buildfix
+4. Start Command ต้องเป็น python main.py
