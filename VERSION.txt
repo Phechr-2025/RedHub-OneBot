@@ -1,4 +1,0 @@
-Bio-shop Bot v34.0-network-flow
-
-Flow: network -> filename -> days -> GB -> DM
-Default networks: AIS, TRUE
