@@ -1,0 +1,8 @@
+Bio-shop Bot v33.2-hotfix
+
+ตรวจสอบหลัง Deploy:
+1. Startup log ต้องมี BUILD=v33.2-hotfix
+2. ส่ง /version ต้องตอบ Bio-shop Bot v33.2-hotfix
+3. /startadmin ต้องเปิดเมนูโดยไม่มี Can't parse entities
+
+หาก Log ไม่มี BUILD=v33.2-hotfix แสดงว่า Railway ยัง Deploy main.py เก่า
