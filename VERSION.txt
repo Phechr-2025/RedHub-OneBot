@@ -1,0 +1,5 @@
+Bio-shop Bot v36.0-package-inbound-order
+
+Network: ID only, order starts 1.
+Package: owns 3x-ui Inbound ID, order starts 1.
+Auto resequence after create/update/delete.
