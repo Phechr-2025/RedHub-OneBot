@@ -1,0 +1,3 @@
+Bio-shop Bot v39.0-web-fix-merge-mobile
+
+Current release only.
