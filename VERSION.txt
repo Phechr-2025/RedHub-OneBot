@@ -1,4 +1,0 @@
-Bio-shop Bot v37.0-no-inbound-env
-
-Current release only.
-Inbound ID is configured per package through the website or /setinbound.
