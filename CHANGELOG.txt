@@ -1,0 +1,6 @@
+Bio-shop Bot v43.0-collapsible-sidebar
+
+- เปลี่ยนคำว่า จำนวนเวลา เป็น จำนวนเวลาที่เช่า
+- อัปเดต README, VERSION และ CHANGELOG ให้ตรงกับรุ่นล่าสุด
+- เพิ่ม Sidebar พับ/กางได้ พร้อมจำสถานะการพับ
+- ปรับ Sidebar ให้เหมาะกับ Desktop, Tablet และ Mobile
